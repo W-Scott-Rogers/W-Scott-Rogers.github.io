@@ -1,5 +1,6 @@
 <div style="text-align:center">
   <h1><img/>Warren << Scott >> Rogers</h1>
+  <h2><img/>Software Engineer</h2>
 </div>
 
 You can use the [editor on GitHub](https://github.com/W-Scott-Rogers/W-Scott-Rogers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
