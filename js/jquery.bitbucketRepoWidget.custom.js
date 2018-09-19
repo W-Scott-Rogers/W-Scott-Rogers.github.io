@@ -49,7 +49,7 @@
 
         for (var vendor in vendors) {
             $.ajax({
-                url:      'https://api.bitbucket.com/2.0/users/' + vendor + '/repositories?per_page=100',
+                url:      'https://api.bitbucket.org/2.0/users/' + vendor + '/repositories?per_page=100',
                 dataType: 'jsonp',
                 cache:    true,
                 success:  function (results) {
@@ -57,8 +57,8 @@
                     $.each(results.data, function (repoIndex) {
                         var repo            = results.data[repoIndex];
                         var date, pushed_at = 'unknown',
-                            vendorUrl       = "http://bitbucket.com/" + vendor,
-                            repoUrl         = "http://bitbucket.com/" + vendor + '/' + repo.name;
+                            vendorUrl       = "http://bitbucket.org/" + vendor,
+                            repoUrl         = "http://bitbucket.org/" + vendor + '/' + repo.name;
 
                         var $widget = $(
                             '<div class="bitbucket-box repo">'
