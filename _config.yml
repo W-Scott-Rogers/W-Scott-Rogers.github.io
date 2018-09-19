@@ -1,1 +1,134 @@
-theme: jekyll-theme-slate
+# Site settings
+title: Warren Scott Rogers
+twitter_username: w_scott_rogers
+name: Warren Scott Rogers
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+-   title: Homepage
+    url: http://trash80.org/
+-   title: Blog
+    url: http://trash80.org/blog/
+-   title: GitHub
+    url: https://github.com/trash-80
+-   title: Bitbucket
+    url: https://bitbucket.org/trash-80/
+-   title: StackOverflow
+    url: https://stackoverflow.com/users/1191714/trash80
+-   title: LinkedIn
+    url: www.linkedin.com/in/scott-rogers-52117073
+
+#Any buzzword skills you want to include
+skills:
+- Angular
+- AWS
+- Bash
+- Git
+- GitLab
+- Groovy
+- Gradle
+- Java
+- Javascrip
+- JPA
+- Python
+- REST
+- Spring MVC
+- Spring Boot
+- Software Development Life Cycle
+- SQL
+- Tech Architecture
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: http://trash80.org/blog?feed=rss2
+
+#Work experience is required
+roles:
+-   title: Senior Full Stack Software Engineer
+    start: 2010
+    end: Ongoing
+    employer: Accenture PLC
+    description:
+    - Apply industry best practices and detailed knowledge of Department of Defense web based application solutions.
+    - Analyze customer requests using functional and technical assessments.
+    - Collaborate with system architects to develop and deliver software solutions per customer requirements.
+    - Refine user stories, user story estimates, task breakdown for user stories, and software delivery lifecycle activities, as well as, work with the technical team lead to ensure design and coding are meeting the architecture vision and standards.
+    - Assist with all aspects of software delivery lifecycle to ensure delivery.
+    - Mentor the team members on software engineering skills and technologies.
+    examples:
+    - Designed and wrote code for a global event tracking via mapping technologies using OpenLayers, ExtJS, and Angular.io
+    - Designed and wrote code for PDF export of event data.
+    - Update and maintain customer code to support newest security technologies.
+-   title: Open Source
+    start: 2006
+    end: Present
+    employer: self
+    description:
+    - 'Some repositories private.  Access available upon request.'
+    - 'Co-author of open source application inxi (bash): https://github.com/smxi/inxi'
+    - 'Author of guanxi, GUI frontend to inxi: https://github.com/trash-80/'
+    - 'FIPS compliant Apache Web Server builder: https://bitbucket.org/trash-80/'
+-   title: Tutor - Mathematics and Computer Information Systems
+    start: 2009
+    end: 2010
+    employer: Missouri Souther State University
+    description:
+    - Tutored students requesting help in Algebra, basic Math, Trigonometry, as well as computer software use and development.
+-   title: Certified Heavy Wheeled Mechanic - Field Artillery
+    start: 1989
+    end: 1998
+    employer: Kansas Army National Guard
+    description:
+    - Worked with teams on mission critical objectives.
+
+
+
+#Education is required
+education:
+-   level: Bachelor of Science (B.Sc.)
+    date: 2010
+    subject: Information Systems - Software Development focus
+    school: Missouri Southern State University
+-   level: Minor - Professional Writing and Technical Documentation
+    date: 2010
+    subject: English
+    school: Missouri Southern State University
+
+#List of interesting Github repo/projects to include - optional
+github:
+- https://github.com/trash-80/xiin
+- https://github.com/trash-80/guanxi
+- https://github.com/trash-80/Pyne2
+- https://github.com/trash-80/PyneCone
+- https://github.com/trash-80/Spectacles
+- https://github.com/trash-80/guanxi.nw
+
+bitbucket:
+- https://bitbucket.org/trash-80/acndiff
+- https://bitbucket.org/trash-80/apache_bld-x32
+- https://bitbucket.org/trash-80/apache-httpd-fips-ssl-x64
+- https://bitbucket.org/trash-80/auto-java-update
+- https://bitbucket.org/trash-80/axcent
+- https://bitbucket.org/trash-80/guanxi
+- https://bitbucket.org/trash-80/pyne
+- https://bitbucket.org/trash-80/pynecone
+- https://bitbucket.org/trash-80/rally-export
+- https://bitbucket.org/trash-80/spectacles
+- https://bitbucket.org/trash-80/xiin
+
+#Stackoverflow flair is optional
+stackoverflow:
+    profileurl: https://stackoverflow.com/users/1191714/trash80
+    flairimageurl: https://stackoverflow.com/users/flair/1191714.png
+
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+    <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring MVC 5, Spring Security 5, JPA/Hibernate.  In my current role Groovy is the primary language used - and I am familiar with many of the language's features. <br/><br/>
+    <strong>Web Development</strong>: My server side web development experience has largely been based on RESTful Java via Jersey. I have also worked with some client side technology, having used Angular (both .js and .io), Extjs, jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore.<br/><br/>
+    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Subversion, Git, Maven, Gradle, and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
+    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including OpenShift Origin/OKD. <br/><br/>
+    I occasionally write a blog covering life, technical subjects, and opinion articles at: <a target='_blank' href="http://trash80.org/blog/">Nerd @ Play</a><br/><br/>
