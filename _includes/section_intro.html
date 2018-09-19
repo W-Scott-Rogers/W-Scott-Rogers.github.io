@@ -5,9 +5,11 @@
     <div class="content-rounded-panel">
         <div id="introBlurb">
             {% if site.introduction %}
-            {% for intro in site.introduction %}
-            {{intro}}<br/>
-            {% endfor %}
+            <ul>
+                {% for intro in site.introduction %}
+                <li>&#8226; {{intro}}</li>
+                {% endfor %}
+            </ul>
             {% endif %}
         </div>
         <br>
