@@ -29,23 +29,31 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
-- Angular
-- AWS
-- Bash
-- Git
-- GitLab
-- Groovy
-- Gradle
-- Java
-- Javascrip
-- JPA
-- Python
-- REST
-- Spring MVC
-- Spring Boot
-- Software Development Life Cycle
-- SQL
-- Tech Architecture
+    - Agile
+    - Angular
+    - AWS
+    - Bash
+    - 'Crucible / Peer Review'
+    - Git
+    - GitLab
+    - Groovy
+    - Gradle
+    - Java
+    - Javascrip
+    - Jenkins
+    - Jira
+    - JPA
+    - LDAP
+    - Nexus
+    - Python
+    - REST
+    - SOAP
+    - Spring MVC
+    - Spring Boot
+    - Software Development Life Cycle
+    - Subversion
+    - SQL
+    - Tech Architecture
 
 #Work experience is required
 roles:
