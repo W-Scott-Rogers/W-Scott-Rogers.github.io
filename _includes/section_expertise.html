@@ -3,7 +3,7 @@
         <h1 id="user-skills">{{expert.title}}</h1>
     </div>
     <div class="content-rounded-panel">
-        <div id="libraries">
+        <div id="{{expert.title}}">
             {% for detail in expert.details %}
             <span class="label label-info label-padded"> {{detail}} </span> &nbsp;
             {% endfor %}
