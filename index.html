@@ -5,9 +5,7 @@ layout: default
 <div>
     <div class="col-md-3 border-left">
         {% include section_stackoverflow.html %}
-        {% for expert in site.expertise % }
-            {% include section_expertise.html %}
-        {% endfor %}
+        {% include section_expertise.html %}
     </div>
     <div class="col-md-9 border-right">
         {% include section_intro.html %}
