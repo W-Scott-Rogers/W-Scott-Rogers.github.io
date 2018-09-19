@@ -58,7 +58,7 @@ roles:
     - Refine user stories, user story estimates, task breakdown for user stories, and software delivery lifecycle activities, as well as, work with the technical team lead to ensure design and coding are meeting the architecture vision and standards.
     - Assist with all aspects of software delivery lifecycle to ensure delivery.
     - Mentor the team members on software engineering skills and technologies.
-    examples:
+    example:
     - Designed and wrote code for a global event tracking via mapping technologies using OpenLayers, ExtJS, and Angular.io
     - Designed and wrote code for PDF export of event data.
     - Update and maintain customer code to support newest security technologies.
