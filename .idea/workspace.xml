@@ -31,6 +31,7 @@
       <change beforePath="$PROJECT_DIR$/img/gray_jean.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gray_jean.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/configuration.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/configuration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.bitbucketRepoWidget.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.bitbucketRepoWidget.custom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/jquery.githubRepoWidget.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.githubRepoWidget.custom.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -77,14 +78,14 @@
         <counts>
           <entry key="gitignore" value="36" />
           <entry key="html" value="89" />
-          <entry key="yml" value="1169" />
+          <entry key="yml" value="1170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="89" />
           <entry key="PLAIN_TEXT" value="36" />
-          <entry key="YAML" value="1169" />
+          <entry key="YAML" value="1170" />
         </counts>
       </usages-collector>
     </session>
@@ -100,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="108" column="10" lean-forward="true" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -208,7 +209,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/section_bitbucket.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -265,10 +266,10 @@
         <option value="$PROJECT_DIR$/_includes/section_workexperience.html" />
         <option value="$PROJECT_DIR$/_includes/section_intro.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/jquery.bitbucketRepoWidget.custom.js" />
         <option value="$PROJECT_DIR$/_includes/section_bitbucket.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -361,12 +362,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537315015774</updated>
       <workItem from="1537315018622" duration="5197000" />
-      <workItem from="1537320770949" duration="3012000" />
+      <workItem from="1537320770949" duration="3274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8209000" />
+    <option name="totallyTimeSpent" value="8471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -473,23 +474,6 @@
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="108" column="10" lean-forward="true" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.bitbucketRepoWidget.custom.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -504,6 +488,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
         </state>
       </provider>
     </entry>
