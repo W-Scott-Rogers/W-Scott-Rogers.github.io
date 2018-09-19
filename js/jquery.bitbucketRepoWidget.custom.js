@@ -49,7 +49,7 @@
 
         for (var vendor in vendors) {
             $.ajax({
-                url:      'https://api.bitbucket.com/users/' + vendor + '/repos?per_page=100',
+                url:      'https://api.bitbucket.com/2.0/users/' + vendor + '/repositories?per_page=100',
                 dataType: 'jsonp',
                 cache:    true,
                 success:  function (results) {
