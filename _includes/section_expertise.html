@@ -5,9 +5,18 @@
     </div>
     <div class="content-rounded-panel">
         <div id="languages">
+            {% if expert.type == 'word' %}
             {% for detail in expert.details %}
             <span class="label label-info label-padded"> {{detail}} </span> &nbsp;
             {% endfor %}
+            {% endif %}
+            {% if expert.type == 'sentence' %}
+            <ul>
+            {% for detail in expert.details %}
+            <li class="label label-info label-padded"> {{detail}} </li> &nbsp;
+            {% endfor %}
+            </ul>
+            {% endif %}
         </div>
     </div>
 </div>
