@@ -22,8 +22,20 @@
                     <td>{{role.start}}</td>
                     <td>{{role.end}}</td>
                     <td>{{role.employer}}</td>
-                    <td class="hidden-sm hidden-xs">{{role.description}}</td>
-                    <td>{{role.example}}</td>
+                    <td class="hidden-sm hidden-xs">
+                        <ul>
+                            {% for desc in role.description %}
+                            <li>{{desc}}</li>
+                            {% endfor %}
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            {% for examp in role.example %}
+                            <li>{{examp}}</li>
+                            {% endfor %}
+                        </ul>
+                    </td>
                 </tr>
                 {% endfor %}
                 </tbody>
