@@ -2,13 +2,11 @@
     <div class="top-rounded-panel grey-bg">
         <h1 id="user-skills">Skills</h1>
     </div>
-    <div class="content-rounded-panel">
-        <div id="technologies">
-            <ul>
-                {% for skill in site.expertise.skills %}
-                <li class="label label-info label-padded"> {{skill}} </li>
-                {% endfor %}
-            </ul>
-        </div>
+    <div id="technologies" class="content-rounded-panel">
+        <ul>
+            {% for skill in site.expertise.skills %}
+            <li class="label label-info label-padded"> {{skill}} </li>
+            {% endfor %}
+        </ul>
     </div>
 </div>
