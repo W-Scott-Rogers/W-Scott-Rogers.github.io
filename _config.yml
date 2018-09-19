@@ -112,7 +112,7 @@ experiences:
     -   title: Open Source
         start: 2006
         end: Present
-        employer: self
+        employer: Self
         description:
         - 'Some repositories private.  Access available upon request.'
         - 'Co-author of open source application inxi (bash): https://github.com/smxi/inxi'
