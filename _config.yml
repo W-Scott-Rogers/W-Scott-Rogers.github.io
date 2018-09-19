@@ -9,18 +9,18 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
--   title: Homepage
-    url: http://trash80.org/
--   title: Blog
-    url: http://trash80.org/blog/
--   title: GitHub
-    url: https://github.com/trash-80
--   title: Bitbucket
-    url: https://bitbucket.org/trash-80/
--   title: StackOverflow
-    url: https://stackoverflow.com/users/1191714/trash80
--   title: LinkedIn
-    url: www.linkedin.com/in/scott-rogers-52117073
+    -   title: Homepage
+        url: http://trash80.org/
+    -   title: Blog
+        url: http://trash80.org/blog/
+    -   title: GitHub
+        url: https://github.com/trash-80
+    -   title: Bitbucket
+        url: https://bitbucket.org/trash-80/
+    -   title: StackOverflow
+        url: https://stackoverflow.com/users/1191714/trash80
+    -   title: LinkedIn
+        url: www.linkedin.com/in/scott-rogers-52117073
 
 #Any buzzword skills you want to include
 skills:
@@ -47,55 +47,55 @@ blogfeed: http://trash80.org/blog?feed=rss2
 
 #Work experience is required
 roles:
--   title: Senior Full Stack Software Engineer
-    start: 2010
-    end: Ongoing
-    employer: Accenture PLC
-    description:
-    - Apply industry best practices and detailed knowledge of Department of Defense web based application solutions.
-    - Analyze customer requests using functional and technical assessments.
-    - Collaborate with system architects to develop and deliver software solutions per customer requirements.
-    - Refine user stories, user story estimates, task breakdown for user stories, and software delivery lifecycle activities, as well as, work with the technical team lead to ensure design and coding are meeting the architecture vision and standards.
-    - Assist with all aspects of software delivery lifecycle to ensure delivery.
-    - Mentor the team members on software engineering skills and technologies.
-    example:
-    - Designed and wrote code for a global event tracking via mapping technologies using OpenLayers, ExtJS, and Angular.io
-    - Designed and wrote code for PDF export of event data.
-    - Update and maintain customer code to support newest security technologies.
--   title: Open Source
-    start: 2006
-    end: Present
-    employer: self
-    description:
-    - 'Some repositories private.  Access available upon request.'
-    - 'Co-author of open source application inxi (bash): https://github.com/smxi/inxi'
-    - 'Author of guanxi, GUI frontend to inxi: https://github.com/trash-80/'
-    - 'FIPS compliant Apache Web Server builder: https://bitbucket.org/trash-80/'
--   title: Tutor - Mathematics and Computer Information Systems
-    start: 2009
-    end: 2010
-    employer: Missouri Souther State University
-    description:
-    - Tutored students requesting help in Algebra, basic Math, Trigonometry, as well as computer software use and development.
--   title: Certified Heavy Wheeled Mechanic - Field Artillery
-    start: 1989
-    end: 1998
-    employer: Kansas Army National Guard
-    description:
-    - Worked with teams on mission critical objectives.
+    -   title: Senior Full Stack Software Engineer
+        start: 2010
+        end: Ongoing
+        employer: Accenture PLC
+        description:
+        - Apply industry best practices and detailed knowledge of Department of Defense web based application solutions.
+        - Analyze customer requests using functional and technical assessments.
+        - Collaborate with system architects to develop and deliver software solutions per customer requirements.
+        - Refine user stories, user story estimates, task breakdown for user stories, and software delivery lifecycle activities, as well as, work with the technical team lead to ensure design and coding are meeting the architecture vision and standards.
+        - Assist with all aspects of software delivery lifecycle to ensure delivery.
+        - Mentor the team members on software engineering skills and technologies.
+        example:
+        - Designed and wrote code for a global event tracking via mapping technologies using OpenLayers, ExtJS, and Angular.io
+        - Designed and wrote code for PDF export of event data.
+        - Update and maintain customer code to support newest security technologies.
+    -   title: Open Source
+        start: 2006
+        end: Present
+        employer: self
+        description:
+        - 'Some repositories private.  Access available upon request.'
+        - 'Co-author of open source application inxi (bash): https://github.com/smxi/inxi'
+        - 'Author of guanxi, GUI frontend to inxi: https://github.com/trash-80/'
+        - 'FIPS compliant Apache Web Server builder: https://bitbucket.org/trash-80/'
+    -   title: Tutor - Mathematics and Computer Information Systems
+        start: 2009
+        end: 2010
+        employer: Missouri Souther State University
+        description:
+        - Tutored students requesting help in Algebra, basic Math, Trigonometry, as well as computer software use and development.
+    -   title: Certified Heavy Wheeled Mechanic - Field Artillery
+        start: 1989
+        end: 1998
+        employer: Kansas Army National Guard
+        description:
+        - Worked with teams on mission critical objectives.
 
 
 
 #Education is required
 education:
--   level: Bachelor of Science (B.Sc.)
-    date: 2010
-    subject: Information Systems - Software Development focus
-    school: Missouri Southern State University
--   level: Minor - Professional Writing and Technical Documentation
-    date: 2010
-    subject: English
-    school: Missouri Southern State University
+    -   level: Bachelor of Science (B.Sc.)
+        date: 2010
+        subject: Information Systems - Software Development focus
+        school: Missouri Southern State University
+    -   level: Minor - Professional Writing and Technical Documentation
+        date: 2010
+        subject: English
+        school: Missouri Southern State University
 
 #List of interesting Github repo/projects to include - optional
 github:
