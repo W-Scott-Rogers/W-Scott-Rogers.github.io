@@ -28,32 +28,45 @@ primarylinks:
         url: www.linkedin.com/in/scott-rogers-52117073
 
 #Any buzzword skills you want to include
-skills:
-    - Agile
-    - Angular
-    - AWS
-    - Bash
-    - 'Crucible / Peer Review'
-    - Git
-    - GitLab
-    - Groovy
-    - Gradle
-    - Java
-    - Javascrip
-    - Jenkins
-    - Jira
-    - JPA
-    - LDAP
-    - Nexus
-    - Python
-    - REST
-    - SOAP
-    - Spring MVC
-    - Spring Boot
-    - Software Development Life Cycle
-    - Subversion
-    - SQL
-    - Tech Architecture
+expertise:
+    technologies:
+        - Agile
+        - AWS
+        - 'Crucible / Peer Review'
+        - GeoServer
+        - Git
+        - GitLab
+        - Gradle
+        - Jenkins
+        - Jira
+        - JPA
+        - LDAP
+        - Maven
+        - Nexus
+        - REST
+        - SOAP
+        - Software Development Life Cycle
+        - Subversion
+    languages:
+        - Bash
+        - Groovy
+        - Java
+        - Javascript
+        - Python
+        - SQL
+    libraries:
+        - Angular.io
+        - Angular.js
+        - Extjs
+        - Typescript
+        - Spring Boot
+        - Spring MVC
+        - Spring Security
+        - iBatis
+        - Hibernate
+        - Jersey
+        - Central Authentication Service (CAS)
+        - GeoExt
 
 #Work experience is required
 roles:
