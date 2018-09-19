@@ -29,50 +29,58 @@ primarylinks:
 
 #Any buzzword skills you want to include
 expertise:
-    skills:
-        - '26+ years computing experience'
-        - '11 years programming experience'
-        - 'Management of employees and resources'
-        - 'Working knowledge of Microsoft Products (Word, Excel, Visual Studio, Server & Desktop)'
-        - 'Various Linux, Unix and *BSD flavors and utilities'
-    technologies:
-        - Agile
-        - AWS
-        - 'Crucible / Peer Review'
-        - GeoServer
-        - Git
-        - GitLab
-        - Gradle
-        - Jenkins
-        - Jira
-        - JPA
-        - LDAP
-        - Maven
-        - Nexus
-        - REST
-        - SOAP
-        - Software Development Life Cycle
-        - Subversion
-    languages:
-        - Bash
-        - Groovy
-        - Java
-        - Javascript
-        - Python
-        - SQL
-    libraries:
-        - Angular.io
-        - Angular.js
-        - Extjs
-        - Typescript
-        - Spring Boot
-        - Spring MVC
-        - Spring Security
-        - iBatis
-        - Hibernate
-        - Jersey
-        - Central Authentication Service (CAS)
-        - GeoExt
+    -   title: 'Skills'
+        type: 'sentence'
+        details:
+            - '26+ years computing experience'
+            - '11 years programming experience'
+            - 'Management of employees and resources'
+            - 'Working knowledge of Microsoft Products (Word, Excel, Visual Studio, Server & Desktop)'
+            - 'Various Linux, Unix and *BSD flavors and utilities'
+    -   title: 'Technologies'
+        type: 'word'
+        details:
+            - Agile
+            - AWS
+            - 'Crucible / Peer Review'
+            - GeoServer
+            - Git
+            - GitLab
+            - Gradle
+            - Jenkins
+            - Jira
+            - JPA
+            - LDAP
+            - Maven
+            - Nexus
+            - REST
+            - SOAP
+            - Software Development Life Cycle
+            - Subversion
+    -   title: 'Languages'
+        type: 'word'
+        details:
+            - Bash
+            - Groovy
+            - Java
+            - Javascript
+            - Python
+            - SQL
+    -   title: 'Libraries'
+        type: 'word'
+        details:
+            - Angular.io
+            - Angular.js
+            - Extjs
+            - Typescript
+            - Spring Boot
+            - Spring MVC
+            - Spring Security
+            - iBatis
+            - Hibernate
+            - Jersey
+            - Central Authentication Service (CAS)
+            - GeoExt
     merits:
         - 'Two Army Achievement Medals'
         - 'Successfully completed Green Belt training for lean manufacturing at Allied Signal'
