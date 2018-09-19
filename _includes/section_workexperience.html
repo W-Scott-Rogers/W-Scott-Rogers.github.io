@@ -16,22 +16,22 @@
                 </tr>
                 </thead>
                 <tbody>
-                {% for role in site.roles %}
+                {% for experience in site.experiences %}
                 <tr>
-                    <td>{{role.title}}</td>
-                    <td>{{role.start}}</td>
-                    <td>{{role.end}}</td>
-                    <td>{{role.employer}}</td>
+                    <td>{{experience.title}}</td>
+                    <td>{{experience.start}}</td>
+                    <td>{{experience.end}}</td>
+                    <td>{{experience.employer}}</td>
                     <td class="hidden-sm hidden-xs">
                         <ul>
-                            {% for desc in role.description %}
+                            {% for desc in experience.description %}
                             <li>{{desc}}</li>
                             {% endfor %}
                         </ul>
                     </td>
                     <td>
                         <ul>
-                            {% for examp in role.example %}
+                            {% for examp in experience.example %}
                             <li>{{examp}}</li>
                             {% endfor %}
                         </ul>
