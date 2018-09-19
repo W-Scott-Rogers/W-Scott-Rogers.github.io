@@ -3,5 +3,12 @@
     <div class="top-rounded-panel grey-bg">
         <h1 id="user-skills">{{expert.title}}</h1>
     </div>
+    <div class="content-rounded-panel">
+        <div id="languages">
+            {% for detail in expert.details %}
+            <span class="label label-info label-padded"> {{detail}} </span> &nbsp;
+            {% endfor %}
+        </div>
+    </div>
 </div>
 {% endfor %}

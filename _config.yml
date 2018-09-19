@@ -29,6 +29,50 @@ primarylinks:
 
 #Any buzzword skills you want to include
 expertise:
+    -   title: Technologies
+        type: word
+        details:
+        - Agile
+        - AWS
+        - 'Crucible / Peer Review'
+        - GeoServer
+        - Git
+        - GitLab
+        - Gradle
+        - Jenkins
+        - Jira
+        - JPA
+        - LDAP
+        - Maven
+        - Nexus
+        - REST
+        - SOAP
+        - Software Development Life Cycle
+        - Subversion
+    -   title: Languages
+        type: word
+        details:
+        - Bash
+        - Groovy
+        - Java
+        - Javascript
+        - Python
+        - SQL
+    -   title: Libraries
+        type: word
+        details:
+        - Angular.io
+        - Angular.js
+        - Extjs
+        - Typescript
+        - Spring Boot
+        - Spring MVC
+        - Spring Security
+        - iBatis
+        - Hibernate
+        - Jersey
+        - Central Authentication Service (CAS)
+        - GeoExt
     -   title: Skills
         type: sentence
         details:
@@ -37,50 +81,6 @@ expertise:
             - 'Management of employees and resources'
             - 'Working knowledge of Microsoft Products (Word, Excel, Visual Studio, Server & Desktop)'
             - 'Various Linux, Unix and *BSD flavors and utilities'
-    -   title: Technologies
-        type: word
-        details:
-            - Agile
-            - AWS
-            - 'Crucible / Peer Review'
-            - GeoServer
-            - Git
-            - GitLab
-            - Gradle
-            - Jenkins
-            - Jira
-            - JPA
-            - LDAP
-            - Maven
-            - Nexus
-            - REST
-            - SOAP
-            - Software Development Life Cycle
-            - Subversion
-    -   title: Languages
-        type: word
-        details:
-            - Bash
-            - Groovy
-            - Java
-            - Javascript
-            - Python
-            - SQL
-    -   title: Libraries
-        type: word
-        details:
-            - Angular.io
-            - Angular.js
-            - Extjs
-            - Typescript
-            - Spring Boot
-            - Spring MVC
-            - Spring Security
-            - iBatis
-            - Hibernate
-            - Jersey
-            - Central Authentication Service (CAS)
-            - GeoExt
     -   title: 'Merits, Awards, Certifications, and Organizations'
         type: word
         details:
