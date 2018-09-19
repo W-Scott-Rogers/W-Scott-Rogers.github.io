@@ -99,25 +99,25 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
-- https://github.com/trash-80/xiin
-- https://github.com/trash-80/guanxi
-- https://github.com/trash-80/Pyne2
-- https://github.com/trash-80/PyneCone
-- https://github.com/trash-80/Spectacles
-- https://github.com/trash-80/guanxi.nw
+- trash-80/xiin
+- trash-80/guanxi
+- trash-80/Pyne2
+- trash-80/PyneCone
+- trash-80/Spectacles
+- trash-80/guanxi.nw
 
 bitbucket:
-- https://bitbucket.org/trash-80/acndiff
-- https://bitbucket.org/trash-80/apache_bld-x32
-- https://bitbucket.org/trash-80/apache-httpd-fips-ssl-x64
-- https://bitbucket.org/trash-80/auto-java-update
-- https://bitbucket.org/trash-80/axcent
-- https://bitbucket.org/trash-80/guanxi
-- https://bitbucket.org/trash-80/pyne
-- https://bitbucket.org/trash-80/pynecone
-- https://bitbucket.org/trash-80/rally-export
-- https://bitbucket.org/trash-80/spectacles
-- https://bitbucket.org/trash-80/xiin
+- trash-80/acndiff
+- trash-80/apache_bld-x32
+- trash-80/apache-httpd-fips-ssl-x64
+- trash-80/auto-java-update
+- trash-80/axcent
+- trash-80/guanxi
+- trash-80/pyne
+- trash-80/pynecone
+- trash-80/rally-export
+- trash-80/spectacles
+- trash-80/xiin
 
 #Stackoverflow flair is optional
 stackoverflow:
