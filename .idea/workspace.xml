@@ -26,7 +26,7 @@
       <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/glyphicons-halflings-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/glyphicons-halflings-white.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/glyphicons-halflings.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/glyphicons-halflings.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gravatar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gravatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gravatar.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/gray_jean.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gray_jean.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/configuration.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/configuration.js" afterDir="false" />
@@ -76,14 +76,14 @@
         <counts>
           <entry key="gitignore" value="36" />
           <entry key="html" value="27" />
-          <entry key="yml" value="1122" />
+          <entry key="yml" value="1132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="27" />
           <entry key="PLAIN_TEXT" value="36" />
-          <entry key="YAML" value="1122" />
+          <entry key="YAML" value="1132" />
         </counts>
       </usages-collector>
     </session>
@@ -102,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="842">
-              <caret line="105" column="40" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+            <state relative-caret-position="1304">
+              <caret line="97" column="21" selection-start-line="90" selection-start-column="4" selection-end-line="97" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -123,7 +123,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -153,12 +153,12 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <first_editor>
+                <caret lean-forward="true" />
               </first_editor>
               <second_editor />
             </state>
@@ -199,8 +199,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/jquery.githubRepoWidget.custom.js" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/section_workexperience.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -233,6 +233,11 @@
               <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,15 +279,16 @@
       <option name="presentableId" value="Default" />
       <updated>1537315015774</updated>
       <workItem from="1537315018622" duration="5197000" />
-      <workItem from="1537320770949" duration="881000" />
+      <workItem from="1537320770949" duration="1201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6078000" />
+    <option name="totallyTimeSpent" value="6398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120469086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -365,13 +371,20 @@
     <entry file="file://$PROJECT_DIR$/css/main_style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section_workexperience.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="842">
-          <caret line="105" column="40" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+        <state relative-caret-position="1304">
+          <caret line="97" column="21" selection-start-line="90" selection-start-column="4" selection-end-line="97" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -382,13 +395,6 @@
             <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_workexperience.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
         </state>
       </provider>
     </entry>
