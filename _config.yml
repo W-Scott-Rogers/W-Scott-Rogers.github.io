@@ -2,6 +2,9 @@
 title: 'Warren << Scott >> Rogers'
 twitter_username: w_scott_rogers
 name: Warren Scott Rogers
+introduction:
+        - I am a Senior Full Stack Java Engineer working at Accenture.
+        - I enjoy creating great products with great user experiences and working in a dynamic environment with a focus on good development practices, automation and shipping small, frequent releases.
 
 # Build settings
 markdown: kramdown
