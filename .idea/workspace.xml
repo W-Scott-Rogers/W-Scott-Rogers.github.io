@@ -78,7 +78,7 @@
         <counts>
           <entry key="css" value="15" />
           <entry key="gitignore" value="36" />
-          <entry key="html" value="105" />
+          <entry key="html" value="107" />
           <entry key="js" value="8" />
           <entry key="yml" value="1172" />
         </counts>
@@ -86,7 +86,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="15" />
-          <entry key="HTML" value="105" />
+          <entry key="HTML" value="107" />
           <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="36" />
           <entry key="YAML" value="1172" />
@@ -188,8 +188,8 @@
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="FIRST">
-                  <first_editor relative-caret-position="374">
-                    <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+                  <first_editor relative-caret-position="323">
+                    <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -208,7 +208,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/main_style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="606">
+                <state relative-caret-position="485">
                   <caret line="408" column="1" lean-forward="true" selection-start-line="408" selection-start-column="1" selection-end-line="408" selection-end-column="1" />
                 </state>
               </provider>
@@ -235,8 +235,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_includes/section_workexperience.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+                <state relative-caret-position="68">
+                  <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="37" />
                 </state>
               </provider>
             </entry>
@@ -270,17 +270,19 @@
       <find>data-repo</find>
       <find>project</find>
       <find>github-box</find>
-      <find>github</find>
       <find>bitbucketRepoWidget</find>
       <find>vendorName</find>
       <find>http://bitbucket.com</find>
       <find>col-md-9</find>
       <find>bitbucket-box</find>
+      <find>github</find>
+      <find>table</find>
+      <find>content-rounded-panel</find>
     </findStrings>
     <replaceStrings>
-      <replace>bitbucket</replace>
       <replace>http://bitbucket.org</replace>
       <replace>github-box</replace>
+      <replace>bitbucket</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io</dir>
@@ -345,6 +347,11 @@
             <path>
               <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -394,12 +401,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537315015774</updated>
       <workItem from="1537315018622" duration="5197000" />
-      <workItem from="1537320770949" duration="5409000" />
+      <workItem from="1537320770949" duration="5883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10606000" />
+    <option name="totallyTimeSpent" value="11080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -460,19 +467,6 @@
     <entry file="file://$PROJECT_DIR$/img/gravatar.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap-override.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_workexperience.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -496,13 +490,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="408" column="1" lean-forward="true" selection-start-line="408" selection-start-column="1" selection-end-line="408" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -538,11 +525,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-override.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="408" column="1" lean-forward="true" selection-start-line="408" selection-start-column="1" selection-end-line="408" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section_workexperience.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="374">
-            <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
