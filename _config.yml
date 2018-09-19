@@ -29,6 +29,12 @@ primarylinks:
 
 #Any buzzword skills you want to include
 expertise:
+    skills:
+        - 26+ years computing experience
+        - 11 years programming experience
+        - Management of employees and resources
+        - Working knowledge of Microsoft Products (Word, Excel, Visual Studio, Server & Desktop)
+        - Various Linux, Unix and *BSD flavors and utilities
     technologies:
         - Agile
         - AWS
@@ -67,6 +73,15 @@ expertise:
         - Jersey
         - Central Authentication Service (CAS)
         - GeoExt
+
+merits:
+    - Two Army Achievement Medals
+    - Successfully completed Green Belt training for lean manufacturing at Allied Signal
+    - Certificate for successfully completing Coaching & Evaluation Seminar at Cobb-Vantress
+    - President of the MSSU Computer Information Science Club
+    - Dean's list Honor Role - Spring and Fall 2007, Fall 2009
+    - Member of Phi-Eta-Sigma -- Freshman Honors Society
+    - Member of Sigma Tau Delta -- English Honors Society
 
 #Work experience is required
 roles:
