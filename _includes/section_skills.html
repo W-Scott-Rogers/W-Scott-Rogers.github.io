@@ -4,9 +4,11 @@
     </div>
     <div class="content-rounded-panel">
         <div id="technologies">
-            {% for skill in site.expertise.skills %}
-            <span class="label label-info label-padded"> {{skill}} </span> &nbsp;
-            {% endfor %}
+            <ul>
+                {% for skill in site.expertise.skills %}
+                <li class="label label-info label-padded"> {{skill}} </li>
+                {% endfor %}
+            </ul>
         </div>
     </div>
 </div>
