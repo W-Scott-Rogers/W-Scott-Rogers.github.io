@@ -82,7 +82,7 @@ expertise:
             - 'Working knowledge of Microsoft Products (Word, Excel, Visual Studio, Server & Desktop)'
             - 'Various Linux, Unix and *BSD flavors and utilities'
     -   title: 'Merits, Awards, Certifications, and Organizations'
-        type: word
+        type: sentence
         details:
             - 'Two Army Achievement Medals'
             - 'Successfully completed Green Belt training for lean manufacturing at Allied Signal'
