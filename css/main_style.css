@@ -432,3 +432,10 @@ td.loginRow {
 .linen-blond-box {
     background-image: url(../img/egg-white-linen.png);
 }
+
+.expertise {
+    text-align: center;
+    color: #23527c;
+    font-size: 2.2em;
+    padding-top: 10px;
+}
