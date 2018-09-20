@@ -419,6 +419,10 @@ td.loginRow {
 	margin-top: 15px;
 }
 
-.linen-blue-box {
+/*.linen-dk-blue-box {*/
+	/*background-image: url("../img/blue-linen.png");*/
+/*}*/
+
+.linen-lt-blue-box {
 	background-image: url("../img/blue-linen.jpg");
 }
