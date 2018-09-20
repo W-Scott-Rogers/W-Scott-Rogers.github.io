@@ -56,7 +56,7 @@
         <counts>
           <entry key="css" value="7" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="38" />
+          <entry key="html" value="39" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="1" />
           <entry key="js" value="6" />
@@ -68,7 +68,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="5" />
-          <entry key="HTML" value="38" />
+          <entry key="HTML" value="39" />
           <entry key="Image" value="16" />
           <entry key="JavaScript" value="6" />
           <entry key="Markdown" value="1" />
@@ -80,7 +80,7 @@
         <counts>
           <entry key="css" value="105" />
           <entry key="gitignore" value="36" />
-          <entry key="html" value="921" />
+          <entry key="html" value="922" />
           <entry key="js" value="8" />
           <entry key="yml" value="2486" />
         </counts>
@@ -88,7 +88,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="105" />
-          <entry key="HTML" value="921" />
+          <entry key="HTML" value="922" />
           <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="36" />
           <entry key="YAML" value="2486" />
@@ -202,11 +202,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="431" column="18" lean-forward="true" selection-start-line="431" selection-start-column="18" selection-end-line="431" selection-end-column="18" />
+            <state relative-caret-position="725">
+              <caret line="433" column="1" selection-start-line="433" selection-start-column="1" selection-end-line="433" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -216,11 +216,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/section_expertise.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/section_github.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -237,8 +246,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/section_stackoverflow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            <state relative-caret-position="34">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -294,8 +303,8 @@
       <replace>experience</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io</dir>
       <dir>C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\_includes</dir>
+      <dir>C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -324,8 +333,8 @@
         <option value="$PROJECT_DIR$/_includes/section_workexperience.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_includes/section_stackoverflow.html" />
         <option value="$PROJECT_DIR$/_includes/section_expertise.html" />
+        <option value="$PROJECT_DIR$/_includes/section_stackoverflow.html" />
         <option value="$PROJECT_DIR$/css/main_style.css" />
       </list>
     </option>
@@ -432,16 +441,15 @@
       <option name="presentableId" value="Default" />
       <updated>1537315015774</updated>
       <workItem from="1537315018622" duration="5197000" />
-      <workItem from="1537320770949" duration="22467000" />
+      <workItem from="1537320770949" duration="23093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27664000" />
+    <option name="totallyTimeSpent" value="28290000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -497,13 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_github.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -648,13 +649,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/blue-linen.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_stackoverflow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/linen-light.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -682,17 +676,31 @@
     <entry file="file://$PROJECT_DIR$/img/egg-white-linen.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_expertise.html">
+    <entry file="file://$PROJECT_DIR$/_includes/section_stackoverflow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="431" column="18" lean-forward="true" selection-start-line="431" selection-start-column="18" selection-end-line="431" selection-end-column="18" />
+        <state relative-caret-position="725">
+          <caret line="433" column="1" selection-start-line="433" selection-start-column="1" selection-end-line="433" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section_github.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section_expertise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
         </state>
       </provider>
     </entry>

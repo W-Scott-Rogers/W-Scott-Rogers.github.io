@@ -11,11 +11,11 @@
             {% endfor %}
             {% endif %}
             {% if expert.type == 'sentence' %}
-            <ul>
+            <dl>
             {% for detail in expert.details %}
-            <li class="label label-info label-padded"> {{detail}} </li> &nbsp;
+            <dt class="label label-info label-padded"> {{detail}} </dt> &nbsp;
             {% endfor %}
-            </ul>
+            </dl>
             {% endif %}
         </div>
     </div>
