@@ -424,5 +424,11 @@ td.loginRow {
 /*}*/
 
 .linen-lt-blue-box {
-	background-image: url("../img/blue-linen.jpg");
+    background-image: url(../img/blue-linen.jpg);
+    background-blend-mode: screen;
+    background-color: darkgoldenrod;
+}
+
+.linen-blonde-box {
+    background-image: url(../img/Fiesta-Linen.png);
 }
