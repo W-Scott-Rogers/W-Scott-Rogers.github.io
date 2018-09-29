@@ -4,7 +4,8 @@
   font-style: normal;
   font-weight: 200;
   src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'),
-  url(https://fonts.googleapis.com/css?family=Source+Sans+Pro) format('woff2');
+  url('../font/SourceSansPro-ExtraLight.woff2') format('woff2'),
+    url('../font/SourceSansPro-ExtraLight.woff') format('woff');
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -12,8 +13,9 @@
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 200;
-  src: local('Source Sans Pro ExtraLight'), local('../font/SourceSansPro-ExtraLight'),
-  url(https://fonts.googleapis.com/css?family=Source+Sans+Pro) format('woff2');
+  src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'),
+  url('../font/SourceSansPro-ExtraLight.woff2') format('woff2'),
+    url('../font/SourceSansPro-ExtraLight.woff') format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 /* latin-ext */
@@ -21,8 +23,9 @@
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 300;
-  src: local('Source Sans Pro Light'), local('../font/SourceSansPro-Light'),
-  url(https://fonts.googleapis.com/css?family=Source+Sans+Pro) format('woff2');
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'),
+  url('../font/SourceSansPro-Light.woff2') format('woff2'),
+    url('../font/SourceSansPro-Light.woff') format('woff');
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -30,8 +33,9 @@
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 300;
-  src: local('Source Sans Pro Light'), local('../font/SourceSansPro-Light'),
-  url(https://fonts.googleapis.com/css?family=Source+Sans+Pro) format('woff2');
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'),
+  url('../font/SourceSansPro-Light.woff2') format('woff2'),
+    url('../font/SourceSansPro-Light.woff') format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 /* latin-ext */
@@ -39,8 +43,9 @@
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 400;
-  src: local('Source Sans Pro'), local('../font/SourceSansPro-Regular'),
-  url(https://fonts.googleapis.com/css?family=Source+Sans+Pro) format('woff2');
+  src: local('Source Sans Pro'), local('SourceSansPro-Regular'),
+  url('../font/SourceSansPro-Regular.woff2') format('woff2'),
+  url('../font/SourceSansPro-Regular.woff') format('woff');
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -48,7 +53,8 @@
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 400;
-  src: local('Source Sans Pro'), local('../font/SourceSansPro-Regular'),
-  url(https://fonts.googleapis.com/css?family=Source+Sans+Pro) format('woff2');
+  src: local('Source Sans Pro'), local('SourceSansPro-Regular'),
+  url('../font/SourceSansPro-Regular.woff2') format('woff2'),
+  url('../font/SourceSansPro-Regular.woff') format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
