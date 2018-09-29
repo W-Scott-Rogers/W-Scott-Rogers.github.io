@@ -18,7 +18,7 @@
 
     if (vendors) {
         $('head').append(
-            '<style type="text/css">'
+            '<style type="text/custom.css">'
             + '.github-box *{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}'
             + '.github-box{font-family:helvetica,arial,sans-serif;font-size:13px;line-height:18px;background:#fafafa;border:1px solid #ddd;color:#666;border-radius:3px}'
             + '.github-box a{color:#4183c4;border:0;text-decoration:none}'
