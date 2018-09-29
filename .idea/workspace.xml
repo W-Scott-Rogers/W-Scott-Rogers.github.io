@@ -59,7 +59,7 @@
         <counts>
           <entry key="css" value="10" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="45" />
+          <entry key="html" value="49" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="1" />
           <entry key="js" value="12" />
@@ -72,7 +72,7 @@
         <counts>
           <entry key="CSS" value="8" />
           <entry key="Git file" value="1" />
-          <entry key="HTML" value="45" />
+          <entry key="HTML" value="49" />
           <entry key="Image" value="17" />
           <entry key="JavaScript" value="12" />
           <entry key="Markdown" value="1" />
@@ -84,7 +84,7 @@
         <counts>
           <entry key="css" value="233" />
           <entry key="gitignore" value="38" />
-          <entry key="html" value="1052" />
+          <entry key="html" value="1066" />
           <entry key="js" value="41" />
           <entry key="yml" value="2602" />
         </counts>
@@ -93,7 +93,7 @@
         <counts>
           <entry key="CSS" value="233" />
           <entry key="Git file" value="2" />
-          <entry key="HTML" value="1052" />
+          <entry key="HTML" value="1066" />
           <entry key="JavaScript" value="41" />
           <entry key="PLAIN_TEXT" value="36" />
           <entry key="YAML" value="2602" />
@@ -113,6 +113,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -121,7 +139,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -154,6 +172,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/section_blogfeed.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/section_github.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/source-control.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-799">
@@ -173,7 +209,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>roles</find>
       <find>role</find>
       <find>{{</find>
       <find>experience</find>
@@ -203,6 +238,7 @@
       <find>-widget</find>
       <find>&lt;style</find>
       <find>jquery</find>
+      <find>https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js</find>
     </findStrings>
     <replaceStrings>
       <replace>http://bitbucket.org</replace>
@@ -243,12 +279,10 @@
         <option value="$PROJECT_DIR$/_includes/section_workexperience.html" />
         <option value="$PROJECT_DIR$/_includes/section_stackoverflow.html" />
         <option value="$PROJECT_DIR$/_includes/section_expertise.html" />
-        <option value="$PROJECT_DIR$/_includes/section_github.html" />
         <option value="$PROJECT_DIR$/_includes/section_bitbucket.html" />
         <option value="$PROJECT_DIR$/css/main_style.css" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/assets/javascript/test.css" />
         <option value="$PROJECT_DIR$/assets/css/github-box.css" />
@@ -257,6 +291,9 @@
         <option value="$PROJECT_DIR$/assets/javascript/jquery.githubRepoWidget.custom.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_includes/section_blogfeed.html" />
+        <option value="$PROJECT_DIR$/_includes/section_github.html" />
       </list>
     </option>
   </component>
@@ -723,29 +760,8 @@
     <entry file="file://$PROJECT_DIR$/assets/img/trs80-model3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/section_blogs.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_blogfeed.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -761,13 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_github.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -812,6 +821,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -824,6 +840,27 @@
             <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section_blogfeed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section_github.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
         </state>
       </provider>
     </entry>
