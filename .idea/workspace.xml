@@ -82,7 +82,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="222" />
+          <entry key="css" value="229" />
           <entry key="gitignore" value="38" />
           <entry key="html" value="1028" />
           <entry key="js" value="8" />
@@ -91,7 +91,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="222" />
+          <entry key="CSS" value="229" />
           <entry key="Git file" value="2" />
           <entry key="HTML" value="1028" />
           <entry key="JavaScript" value="8" />
@@ -148,8 +148,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
+            <state relative-caret-position="42">
+              <caret line="16" column="99" selection-start-line="16" selection-start-column="99" selection-end-line="16" selection-end-column="99" />
             </state>
           </provider>
         </entry>
@@ -324,7 +324,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>github-widget</find>
       <find>skills</find>
       <find>skillsBubble</find>
       <find>Twitter Bootstrap CSS</find>
@@ -354,6 +353,7 @@
       <find>githubrepo</find>
       <find>user-int</find>
       <find>https://fonts.googleapis.com/css?family=</find>
+      <find>url('..</find>
     </findStrings>
     <replaceStrings>
       <replace>http://bitbucket.org</replace>
@@ -363,6 +363,7 @@
       <replace>https://</replace>
       <replace>https://fonts.googleapis.com/css?family=</replace>
       <replace>https://fonts.googleapis.com/css?family=Source+Sans+Pro</replace>
+      <replace>url('https://w-scott-rogers.github.io/assets</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\_includes</dir>
@@ -957,8 +958,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
+        <state relative-caret-position="42">
+          <caret line="16" column="99" selection-start-line="16" selection-start-column="99" selection-end-line="16" selection-end-column="99" />
         </state>
       </provider>
     </entry>
