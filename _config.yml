@@ -99,16 +99,16 @@ experiences:
         end: Ongoing
         employer: Accenture PLC
         description:
-        - Apply industry best practices and detailed knowledge of Department of Defense web based application solutions.
-        - Analyze customer requests using functional and technical assessments.
-        - Collaborate with system architects to develop and deliver software solutions per customer requirements.
-        - Refine user stories, user story estimates, task breakdown for user stories, and software delivery lifecycle activities, as well as, work with the technical team lead to ensure design and coding are meeting the architecture vision and standards.
-        - Assist with all aspects of software delivery lifecycle to ensure delivery.
-        - Mentor the team members on software engineering skills and technologies.
+        - 'Apply industry best practices and detailed knowledge of Department of Defense web based application solutions.'
+        - 'Analyze customer requests using functional and technical assessments.'
+        - 'Collaborate with system architects to develop and deliver software solutions per customer requirements.'
+        - 'Refine user stories, user story estimates, task breakdown for user stories, and software delivery lifecycle activities, as well as, work with the technical team lead to ensure design and coding are meeting the architecture vision and standards.'
+        - 'Assist with all aspects of software delivery lifecycle to ensure delivery.'
+        - 'Mentor the team members on software engineering skills and technologies.'
         example:
-        - Designed and wrote code for a global event tracking via mapping technologies using OpenLayers, ExtJS, and Angular.io
-        - Designed and wrote code for PDF export of event data.
-        - Update and maintain customer code to support newest security technologies.
+        - 'Designed and wrote code for a global event tracking via mapping technologies using OpenLayers, ExtJS, and Angular.io'
+        - 'Designed and wrote code for PDF export of event data.'
+        - 'Update and maintain code to support newest security technologies.'
     -   title: Open Source
         start: 2006
         end: Present
@@ -117,13 +117,13 @@ experiences:
         - 'Some repositories private.  Access available upon request.'
         - 'Co-author of open source application inxi (bash): https://github.com/smxi/inxi'
         - 'Author of guanxi, GUI frontend to inxi: https://github.com/trash-80/'
-        - 'FIPS compliant Apache Web Server builder: https://bitbucket.org/trash-80/'
+        - 'OpenSSH-FIPS compliant Apache Web Server builder: https://bitbucket.org/trash-80/'
     -   title: Tutor - Mathematics and Computer Information Systems
         start: 2009
         end: 2010
         employer: Missouri Souther State University
         description:
-        - Tutored students requesting help in Algebra, basic Math, Trigonometry, as well as computer software use and development.
+        - 'Tutored students requesting help in Algebra, basic Math, Trigonometry, as well as computer software use and development.'
     -   title: Certified Heavy Wheeled Mechanic - Field Artillery
         start: 1989
         end: 1998
@@ -174,8 +174,12 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-    <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring MVC 5, Spring Security 5, JPA/Hibernate.  In my current role Groovy is the primary language used - and I am familiar with many of the language's features. <br/><br/>
-    <strong>Web Development</strong>: My server side web development experience has largely been based on RESTful Java via Jersey. I have also worked with some client side technology, having used Angular (both .js and .io), Extjs, jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore.<br/><br/>
-    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Subversion, Git, Maven, Gradle, and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including OpenShift Origin/OKD. <br/><br/>
+    <strong>JVM</strong>: I am experienced in a variety of Java and Groovy API’s and frameworks.<br/>
+        I have recently worked with Spring MVC 5, Spring Security 5, JPA/Hibernate.<br/>
+        In my current role Groovy is the primary language used - and I am familiar with many of the language's features. <br/><br/>
+    <strong>Web Development</strong>: My server side web development experience has largely been based on RESTful Java via Jersey.<br/>
+        I have also worked with client side technologies such as: Javascript, Angular (both .js and .io), Extjs, jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone and Underscore.<br/><br/>
+    <strong>Development Control</strong>: I have good knowledge of application life-cycle management and have worked with Subversion, Git, Maven, Gradle, and Jenkins.<br/>
+        I have experience with an array of testing tools and technologies.<br/><br/>
+    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time.<br/><br/>
     I occasionally write a blog covering life, technical subjects, and opinion articles at: <a target='_blank' href="http://trash80.org/blog/">Nerd @ Play</a><br/><br/>
