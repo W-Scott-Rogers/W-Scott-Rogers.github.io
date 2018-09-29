@@ -84,7 +84,7 @@
         <counts>
           <entry key="css" value="141" />
           <entry key="gitignore" value="38" />
-          <entry key="html" value="1011" />
+          <entry key="html" value="1018" />
           <entry key="js" value="8" />
           <entry key="yml" value="2602" />
         </counts>
@@ -93,7 +93,7 @@
         <counts>
           <entry key="CSS" value="141" />
           <entry key="Git file" value="2" />
-          <entry key="HTML" value="1011" />
+          <entry key="HTML" value="1018" />
           <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="36" />
           <entry key="YAML" value="2602" />
@@ -145,9 +145,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -193,7 +197,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -320,9 +324,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>bitbucket-box</find>
-      <find>github</find>
-      <find>content-rounded-panel</find>
       <find>col-md-3</find>
       <find>Introduction</find>
       <find>github-widget</find>
@@ -350,12 +351,16 @@
       <find>_includes</find>
       <find>yml</find>
       <find>img/</find>
+      <find>woff</find>
+      <find>http://</find>
+      <find>githubrepo</find>
     </findStrings>
     <replaceStrings>
       <replace>http://bitbucket.org</replace>
       <replace>bitbucket</replace>
       <replace>github-box</replace>
       <replace>experience</replace>
+      <replace>https://</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\_includes</dir>
@@ -392,6 +397,7 @@
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/assets/css/custom.css" />
       </list>
     </option>
   </component>
@@ -647,9 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -734,6 +737,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
         </state>
       </provider>
     </entry>
