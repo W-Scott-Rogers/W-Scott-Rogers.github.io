@@ -16,8 +16,8 @@
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e",
-        "deploy": "gh-pages -d dist",
-        "package": "cross-env NODE_ENV=production parcel build src/index.html --public-url ."
+        "deploy": "gh-pages -d ../../../",
+        "package": "cross-env NODE_ENV=production parcel build --out-dir ../../ src/index.html --public-url ."
     },
     "private": true,
     "dependencies": {
