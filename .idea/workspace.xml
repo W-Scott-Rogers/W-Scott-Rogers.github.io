@@ -63,6 +63,7 @@
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="1" />
           <entry key="js" value="12" />
+          <entry key="map" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="15" />
           <entry key="yml" value="4" />
@@ -77,6 +78,7 @@
           <entry key="JavaScript" value="12" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
+          <entry key="SourceMap" value="1" />
           <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
@@ -84,7 +86,7 @@
         <counts>
           <entry key="css" value="233" />
           <entry key="gitignore" value="38" />
-          <entry key="html" value="1066" />
+          <entry key="html" value="1070" />
           <entry key="js" value="41" />
           <entry key="yml" value="2602" />
         </counts>
@@ -93,107 +95,106 @@
         <counts>
           <entry key="CSS" value="233" />
           <entry key="Git file" value="2" />
-          <entry key="HTML" value="1066" />
+          <entry key="HTML" value="1070" />
           <entry key="JavaScript" value="41" />
           <entry key="PLAIN_TEXT" value="36" />
           <entry key="YAML" value="2602" />
         </counts>
       </usages-collector>
     </session>
+    <session id="-2042413252">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="browserslist" value="1" />
+          <entry key="css" value="14" />
+          <entry key="editorconfig" value="2" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="35" />
+          <entry key="js" value="12" />
+          <entry key="json" value="9" />
+          <entry key="lock" value="3" />
+          <entry key="log" value="4" />
+          <entry key="map" value="4" />
+          <entry key="md" value="1" />
+          <entry key="ts" value="22" />
+          <entry key="yarn-integrity" value="2" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="14" />
+          <entry key="Git file" value="2" />
+          <entry key="HTML" value="35" />
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="12" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="SourceMap" value="4" />
+          <entry key="TypeScript" value="22" />
+          <entry key="YAML" value="4" />
+          <entry key="tsconfig" value="1" />
+          <entry key="yarn.lock" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="114" />
+          <entry key="editorconfig" value="1" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="1327" />
+          <entry key="js" value="451" />
+          <entry key="json" value="321" />
+          <entry key="ts" value="2942" />
+          <entry key="yml" value="173" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="114" />
+          <entry key="Git file" value="2" />
+          <entry key="HTML" value="1327" />
+          <entry key="JSON" value="229" />
+          <entry key="JavaScript" value="451" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="TypeScript" value="2942" />
+          <entry key="YAML" value="173" />
+          <entry key="tsconfig" value="92" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/javascript/jquery.bitbucketRepoWidget.custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/javascript/jquery.githubRepoWidget.custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/section_additionalinfo.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/section_blogfeed.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="110" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/section_github.html">
+        <entry file="file://$PROJECT_DIR$/resume/angular/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+            <state relative-caret-position="535">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/source-control.css">
+        <entry file="file://$PROJECT_DIR$/resume/angular/tsconfig.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-799">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="527">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -209,22 +210,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>role</find>
-      <find>{{</find>
-      <find>experience</find>
-      <find>start da</find>
-      <find>expert</find>
-      <find>{% if</find>
-      <find>font-size</find>
-      <find>top-rounded-panel</find>
-      <find>_includes</find>
-      <find>yml</find>
-      <find>img/</find>
-      <find>woff</find>
-      <find>http://</find>
-      <find>githubrepo</find>
-      <find>user-int</find>
-      <find>https://fonts.googleapis.com/css?family=</find>
       <find>url('..</find>
       <find>css</find>
       <find>CONFIGURATION</find>
@@ -239,6 +224,22 @@
       <find>&lt;style</find>
       <find>jquery</find>
       <find>https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js</find>
+      <find>http</find>
+      <find>watchers</find>
+      <find>indent</find>
+      <find>// -</find>
+      <find>response</find>
+      <find>images</find>
+      <find>../img</find>
+      <find>glyphicons</find>
+      <find>assets/</find>
+      <find>body {</find>
+      <find>.label</find>
+      <find>badge-info</find>
+      <find>label-info</find>
+      <find>responseType</find>
+      <find>trash-80/</find>
+      <find>body</find>
     </findStrings>
     <replaceStrings>
       <replace>http://bitbucket.org</replace>
@@ -251,10 +252,15 @@
       <replace>url('https://w-scott-rogers.github.io/assets</replace>
       <replace>vcs-</replace>
       <replace>}</replace>
+      <replace>'</replace>
+      <replace>../assets/img</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\_includes</dir>
       <dir>C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io</dir>
+      <dir>C:\Users\Scott\Projects\w-scott-rogers.github.io\resume</dir>
+      <dir>C:\Users\Scott\Projects\w-scott-rogers.github.io\resume\src\app</dir>
+      <dir>C:\Users\Scott\Projects\w-scott-rogers.github.io\resume\src\assets</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -263,16 +269,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/jquery.githubRepoWidget.custom.js" />
-        <option value="$PROJECT_DIR$/js/jquery.bitbucketRepoWidget.custom.js" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/css/example-bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/_includes/section_languages.html" />
-        <option value="$PROJECT_DIR$/_includes/section_merits.html" />
-        <option value="$PROJECT_DIR$/_includes/section_expertise-languages.html" />
-        <option value="$PROJECT_DIR$/_includes/section_expertise-libraries.html" />
-        <option value="$PROJECT_DIR$/_includes/section_expertise-technology.html" />
-        <option value="$PROJECT_DIR$/_includes/jsimports.html" />
         <option value="$PROJECT_DIR$/_includes/section_skills.html" />
         <option value="$PROJECT_DIR$/css/bootstrap-override.css" />
         <option value="$PROJECT_DIR$/_includes/section_intro.html" />
@@ -281,7 +277,6 @@
         <option value="$PROJECT_DIR$/_includes/section_expertise.html" />
         <option value="$PROJECT_DIR$/_includes/section_bitbucket.html" />
         <option value="$PROJECT_DIR$/css/main_style.css" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/assets/javascript/test.css" />
@@ -292,8 +287,39 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_includes/section_blogfeed.html" />
         <option value="$PROJECT_DIR$/_includes/section_github.html" />
+        <option value="$PROJECT_DIR$/_includes/section_blogfeed.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/resume/.editorconfig" />
+        <option value="$PROJECT_DIR$/resume/tslint.json" />
+        <option value="$PROJECT_DIR$/resume/.gitignore" />
+        <option value="$PROJECT_DIR$/resume/src/app/app.component.spec.ts" />
+        <option value="$PROJECT_DIR$/resume/src/app/typings.d.ts" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/resume/src/app/model/resume.model.ts" />
+        <option value="$PROJECT_DIR$/resume/src/patch.js" />
+        <option value="$PROJECT_DIR$/resume/patch.js" />
+        <option value="$PROJECT_DIR$/resume/package.json" />
+        <option value="$PROJECT_DIR$/resume/src/app/model/yaml-load.ts" />
+        <option value="$PROJECT_DIR$/resume/src/app/model/typings.d.ts" />
+        <option value="$PROJECT_DIR$/resume/src/app/model/yaml-load.js" />
+        <option value="$PROJECT_DIR$/resume/src/app/model/yamlModel.ts" />
+        <option value="$PROJECT_DIR$/resume/src/app/model/yaml.service.ts" />
+        <option value="$PROJECT_DIR$/resume/src/app/service/yaml.service.ts" />
+        <option value="$PROJECT_DIR$/resume/src/assets/css/bootstrap-override.css" />
+        <option value="$PROJECT_DIR$/assets/css/bootstrap-override.css" />
+        <option value="$PROJECT_DIR$/resume/src/app/service/github/github.service.ts" />
+        <option value="$PROJECT_DIR$/resume/src/app/service/yaml/yaml.service.ts" />
+        <option value="$PROJECT_DIR$/resume/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/resume/src/assets/_config.yml" />
+        <option value="$PROJECT_DIR$/resume/src/app/service/github/github-user.service.ts" />
+        <option value="$PROJECT_DIR$/resume/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/resume/src/assets/css/main_style.css" />
+        <option value="$PROJECT_DIR$/resume/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/resume/src/index.html" />
+        <option value="$PROJECT_DIR$/resume/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/resume/angular/tsconfig.json" />
+        <option value="$PROJECT_DIR$/resume/angular/package.json" />
       </list>
     </option>
   </component>
@@ -302,6 +328,14 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/resume/angular/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/resume/angular/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="518" />
@@ -536,35 +570,19 @@
             <path>
               <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="w-scott-rogers.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="w-scott-rogers.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
+              <item name="jekyll" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -575,22 +593,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/resume/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/webpack-configs/browser.js" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Users\Scott\Projects\w-scott-rogers.github.io\resume\angular\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Scott\Projects\w-scott-rogers.github.io\resume\src\assets" />
+      <recent name="C:\Users\Scott\Projects\w-scott-rogers.github.io\resume\src\app\model" />
       <recent name="C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\assets\img" />
       <recent name="C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\_includes" />
       <recent name="C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\js" />
-      <recent name="C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\assets" />
-      <recent name="C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\assets\javascripts" />
-      <recent name="C:\Users\Scott\iCloudDrive\Resume\w-scott-rogers.github.io\.idea" />
+      <recent name="C:\Users\Scott\Projects\w-scott-rogers.github.io\resume\angular" />
+      <recent name="C:\Users\Scott\Projects\w-scott-rogers.github.io\jekyll" />
+      <recent name="C:\Users\Scott\Projects\w-scott-rogers.github.io\resume\src\app\service\yaml" />
+      <recent name="C:\Users\Scott\Projects\w-scott-rogers.github.io\resume" />
+      <recent name="C:\Users\Scott\Projects\w-scott-rogers.github.io\resume\node_modules" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -627,12 +653,10 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2196162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="Gradle View" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -644,13 +668,16 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32850778" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Gradle View" order="11" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -660,178 +687,213 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/gravatar.jpeg" />
-    <entry file="file://$PROJECT_DIR$/_includes/section_mobileapps.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/section_coursera.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/section_skills.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/section_merits.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/section_expertise-libraries.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/section_expertise-technology.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/section_all-expertise.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/section_expertise-languages.html" />
-    <entry file="file://$PROJECT_DIR$/img/linen-light.png" />
-    <entry file="file://$PROJECT_DIR$/img/Fiesta-Linen.png" />
-    <entry file="file://$PROJECT_DIR$/assets/img/blue-linen.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/blue-linen.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap-override.css">
+    <entry file="file://$PROJECT_DIR$/resume/patch.js" />
+    <entry file="file://$PROJECT_DIR$/resume/src/app/typings.d.ts" />
+    <entry file="file://$PROJECT_DIR$/resume/angular.json" />
+    <entry file="file://$PROJECT_DIR$/resume/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/resume/package.json" />
+    <entry file="file://$PROJECT_DIR$/resume/node_modules/@angular/core/core.d.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/egg-white-linen.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/glyphicons-halflings-white.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/glyphicons-halflings.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/gravatar.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/gray_jean.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_bitbucket.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_education.html">
+    <entry file="file://$PROJECT_DIR$/resume/src/environments/environment.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_expertise.html">
+    <entry file="file://$PROJECT_DIR$/resume/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/app/model/config.yml" />
+    <entry file="file://$PROJECT_DIR$/resume/src/browserslist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="306">
+          <caret line="18" column="19" selection-end-line="185" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_intro.html">
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/section_stackoverflow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_stackoverflow.html">
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/css/example-bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/bootstrap/css/bootstrap-theme.css.map" />
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/bootstrap/css/bootstrap.css.map" />
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/bootstrap/css/bootstrap.min.css.map" />
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/section_expertise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/css/bootstrap-override.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/section_intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" lean-forward="true" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/section_workexperience.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/section_education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/section_additionalinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/app/service/yaml/typings.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/assets/css/bootstrap-override.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/app/service/yaml/yaml-load.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="33" />
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_workexperience.html">
+    <entry file="file://$PROJECT_DIR$/resume/src/app/service/yaml/yaml.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        <state relative-caret-position="238">
+          <caret line="14" column="74" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main_style.css">
+    <entry file="file://$PROJECT_DIR$/resume/node_modules/@angular/common/http/src/client.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="219" column="1" selection-start-line="219" selection-start-column="1" selection-end-line="219" selection-end-column="1" />
+        <state relative-caret-position="158">
+          <caret line="1084" column="4" selection-start-line="1084" selection-start-column="4" selection-end-line="1084" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="2550">
+          <caret line="150" column="18" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/resume/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="166" column="66" selection-start-line="166" selection-start-column="66" selection-end-line="166" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/assets/javascript/configuration.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/favicon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/trs80-model3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_blogs.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="16" column="99" selection-start-line="16" selection-start-column="99" selection-end-line="16" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/example-bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/javascript/configuration.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/javascript/test.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/source-control.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-799">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/javascript/jquery.githubRepoWidget.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_additionalinfo.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/javascript/jquery.bitbucketRepoWidget.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/jekyll/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/resume/src/app/service/github/github-user.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="82" selection-start-line="7" selection-start-column="71" selection-end-line="8" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/assets/javascript/jquery.bitbucketRepoWidget.custom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/assets/css/main_style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jekyll/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="8" selection-start-column="10" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -843,24 +905,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/jekyll/assets/javascript/jquery.githubRepoWidget.custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="274">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_blogfeed.html">
+    <entry file="file://$PROJECT_DIR$/jekyll/_includes/section_github.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="110" />
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section_github.html">
+    <entry file="file://$PROJECT_DIR$/resume/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+        <state relative-caret-position="170">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/angular/src/app/service/yaml/yaml.service.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/angular/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/angular/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/angular/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
         </state>
       </provider>
     </entry>
