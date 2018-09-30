@@ -17,7 +17,7 @@
         "lint": "ng lint",
         "e2e": "ng e2e",
         "deploy": "gh-pages -d ../../../",
-        "package": "cross-env NODE_ENV=production parcel build --out-dir ../../ src/index.html --public-url ."
+        "package": "cross-env NODE_ENV=production parcel build --out-dir ../../docs src/index.html --public-url ."
     },
     "private": true,
     "dependencies": {
