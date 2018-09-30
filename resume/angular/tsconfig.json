@@ -23,9 +23,6 @@
     ],
     "exclude": [
         ".editorconfig",
-        ".git",
-        ".gitignore",
-        ".idea",
         "node_modules"
     ]
 }
