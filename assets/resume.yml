@@ -8,6 +8,7 @@ introduction:
 - 'I am skilled in RESTful APIs built with Java and Groovy, Javascript, Angular, Python, Bash, Spring Frameworks, and AWS.'
 - 'I am a strong information technology professional with a software development focused Bachelor of Science (B.S.) in Information Technology from Missouri Southern State University.'
 - 'I enjoy creating great products with great user experiences and working in a dynamic environment with a focus on good development practices, automation and shipping small, frequent releases.'
+- 'I am well-versed in working within remote teams'
 
 # Build settings
 markdown: kramdown
@@ -49,6 +50,7 @@ expertise:
     - Maven
     - Nexus
     - REST
+    - Scrum
     - SOAP
     - Software Development Life Cycle
     - Subversion
@@ -79,8 +81,9 @@ expertise:
 -   title: Skills
     type: sentence
     details:
-    - '26+ years computing experience'
-    - '11 years programming experience'
+    - '8+ years remote work'
+    - '26+ years computing'
+    - '11 years programming'
     - 'Management of employees and resources'
     - 'Working knowledge of Microsoft Products (Word, Excel, Visual Studio, Server & Desktop)'
     - 'Various Linux, Unix and *BSD flavors and utilities'
